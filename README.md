@@ -1,4 +1,4 @@
-# Phaser - HTML5 Game Framework
+# Phaser - HTML5 Gaming Framework
 
 ![Phaser Header](https://phaser.io/images/github/300/phaser-header.png "Phaser 3 Header Banner")
 
